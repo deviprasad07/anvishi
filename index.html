@@ -8,7 +8,7 @@ layout: default
     <div id="navbar">
         <p><img src="{{ "/images/abhishek.jpg" | prepend: site.baseurl }}" height="300px" alt="Abhishek" /></p>
         <p><span class="occupation">Software Engineer</span> @ <span class="company">Tango Analytics</span></p>
-        <p>Currently working on implementation of spatial algorithms for Pentaho Kettle and a distributed platform for disparate services.</p>
+        <p>Working on implementation of spatial algorithms for Pentaho Kettle and a distributed platform for disparate services.</p>
         <p>Interested in distributed systems and algorithm design.</p>
         <p>&nbsp;</p>
         <ul>
@@ -21,10 +21,24 @@ layout: default
     <div id="content">
     <h3>Blog posts:</h3>
     <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li><span class="datetitle"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span></li>
     {% endfor %}
   </ul>
+  <hr />
+  <div class="pagination" align="center">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
 </div>
 
   </div>
