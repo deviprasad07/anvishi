@@ -1,0 +1,8 @@
+---
+layout: page
+title: Algorithms and DS
+permalink: /algorithms/
+---
+{% for post in site.categories.algorithms %}
+    <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+{% endfor %}

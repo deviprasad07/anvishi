@@ -22,7 +22,10 @@ layout: default
     <h3>Blog posts:</h3>
     <ul class="post-list">
     {% for post in paginator.posts %}
+      {% unless post.categories contains 'algorithms' %}
       <li><span class="datetitle"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span></li>
+      {% endunless %}
+     
     {% endfor %}
   </ul>
   <hr />
