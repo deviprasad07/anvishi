@@ -23,7 +23,7 @@ layout: default
     <ul class="post-list">
     {% for post in paginator.posts %}
       {% unless post.categories contains 'algorithms' %}
-      <li><span class="datetitle"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span><br /><span class="excerpt-text">{{ post.excerpt | remove: '<p>' | remove: '</p>' }}....</span></li>
+      <li><span class="datetitle"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span><br /><span class="excerpt-text">{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html }}....</span></li>
       {% endunless %}
      
     {% endfor %}
