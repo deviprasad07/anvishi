@@ -14,14 +14,7 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
-          {% unless page.exclude_from_nav %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-          {% endunless %}
-        {% endfor %}
-        <a class="page-link" href="http://abhis.ws/algorithms">Algorithms & DS</a>
+        <a class="page-link" href="http://abhis.ws">Home</a>
       </div>
     </nav>
 
