@@ -6,7 +6,7 @@ categories: algorithms
 ---
 >**Question**: Given a list of non negative integers, arrange them such that they form the largest number. For example, given [3, 30, 34, 5, 9], the largest formed number is 9534330. Note: The result may be very large, so you need to return a string instead of an integer.
 
-**Brute force method: Combination**
+**Brute force method: Permutation**
 
 The first method that probably comes to mind is using combination. Considering the above example of {3, 30, 34, 5, 9}, we can fix 
 one number and create combinations of other numbers. This would not only take 2^n time but will probably also run out of memory.
