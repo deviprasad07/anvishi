@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="home" align="center">
+
+  <div id="container">
+    <div id="navbar">
+        <p>A collection of problems on Algorithms and Data structures.</p>
+        <p>&nbsp;</p>
+        <ul>
+          <li><a href="https://github.com/adeydas/Algorithm-Practice">Fork on <strong>Github</strong></a></li>
+          <li><a href="{{ "/files/DeyDas_Resume.docx" | prepend: site.baseurl }}">Download my <strong>Resume</strong></a></li>
+          <li><a href="https://www.linkedin.com/in/adeydas">Contact on <strong>LinkedIn</strong></a></li>
+        </ul>
+    </div>
+
+    <div id="content">
+    
+    
+    {% for category in site.categories %}
+     <p><strong>Category</strong>: {{ category | first }}<br />
+    
+    {% for posts in category %}
+      {% for post in posts %}
+        <a href="{{ post.url }}">{{ post.title }}</a><br />
+      {% endfor %}
+    {% endfor %}
+    </p>
+  
+  <hr />
+{% endfor %}
+  
+  
+</div>
+
+  </div>
+  
+
+</div>
