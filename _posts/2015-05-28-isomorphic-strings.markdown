@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Leetcode] Largest number"
+title:  "[Leetcode] Isomorphic Strings"
 date:   2015-05-28 15:30:00
 categories: algorithms
 ---
