@@ -8,7 +8,7 @@ I am thoroughly enjoying maintaining my website on Github. Jekyl is great, Githu
 
 To achieve the goal, I first created a S3 bucket with a directory in it that would serve all public files. A S3 bucket by default is not visible to the public. However, to use it with Cloudfront it should be (obvious right). To make my cloudfront bucket public I added the following policy:
 
->{
+```{
 	"Version": "2008-10-17",
 
 	"Id": "Policy1380877762691",
@@ -34,8 +34,8 @@ To achieve the goal, I first created a S3 bucket with a directory in it that wou
 		}
 
 	]
-	
- }
+
+ }```
 
 *Replace BUCKETNAME with the name of your bucket*
 
