@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using AWS CDN to host files"
-date:   2015-05-28 15:30:00
+date:   2015-06-02 15:10:00
 categories: misc
 ---
 I am thoroughly enjoying maintaining my website on Github. Jekyl is great, Github is great as a host too but only for small files. If you need to upload large images or binaries, you will, sooner or later, run into their hard limit of 100MB. And it makes sense too. Git is meant for version control, which means every version is stored. Versioning large files would make it really slow. Thus, I decided to move all my static files (except css/js) to Cloudfront (AWS CDN) and S3 (AWS Object storage service).
