@@ -10,18 +10,31 @@ To achieve the goal, I first created a S3 bucket with a directory in it that wou
 
 >{
 	"Version": "2008-10-17",
+
 	"Id": "Policy1380877762691",
+
 	"Statement": [
+
 		{
+
 			"Sid": "Stmt1380877761162",
+
 			"Effect": "Allow",
+
 			"Principal": {
+
 				"AWS": "*"
+
 			},
+
 			"Action": "s3:GetObject",
+
 			"Resource": "arn:aws:s3:::BUCKETNAME/*"
+
 		}
+
 	]
+	
  }
 
 *Replace BUCKETNAME with the name of your bucket*
