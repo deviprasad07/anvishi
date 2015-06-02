@@ -16,6 +16,6 @@ Next I added View permissions for "Everyone". The panel for that is available un
 
 ![S3 properties](http://cdn.abhis.ws/cdn/blog-images/cdn2.png)
 
-Next on the list was setting up CloudFront. This was the easy part. The S3 bucket containing the files should be selected for "Origin Domain Name". If you want to use a custom domain instead of *gibberish.cloudfront.net* (mine is cdn.abhis.ws), you need to feel that under "Alternate Domain Names" and point a CNAME record to your cloud front subdomain. I left the rest of the options alone.
+Next on the list was setting up CloudFront. This was the easy part. The S3 bucket containing the files should be selected for "Origin Domain Name". If you want to use a custom domain instead of *gibberish.cloudfront.net* (mine is cdn.abhis.ws), you need to fill that under "Alternate Domain Names" and point a CNAME record to your cloud front subdomain. I left the rest of the options alone.
 
 It took a few minutes to deploy and every upload takes a couple of seconds to propagate but I got a fantastic and cheap CDN working now.
