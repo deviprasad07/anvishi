@@ -8,34 +8,7 @@ I am thoroughly enjoying maintaining my website on Github. Jekyl is great, Githu
 
 To achieve the goal, I first created a S3 bucket with a directory in it that would serve all public files. A S3 bucket by default is not visible to the public. However, to use it with Cloudfront it should be (obvious right). To make my cloudfront bucket public I added the following policy:
 
-```{
-	"Version": "2008-10-17",
-
-	"Id": "Policy1380877762691",
-
-	"Statement": [
-
-		{
-
-			"Sid": "Stmt1380877761162",
-
-			"Effect": "Allow",
-
-			"Principal": {
-
-				"AWS": "*"
-
-			},
-
-			"Action": "s3:GetObject",
-
-			"Resource": "arn:aws:s3:::BUCKETNAME/*"
-
-		}
-
-	]
-
- }```
+https://gist.github.com/adeydas/dbf5f705061786a3833e
 
 *Replace BUCKETNAME with the name of your bucket*
 
