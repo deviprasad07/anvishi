@@ -25,3 +25,7 @@ permalink: /projects/
 * [Drop middle man](http://dropmiddleman.com)
 * [Motiveminds CMS](http://motiveminds.com)
 * [Website for Wingsoft Technologies LLC](http://www.wingsofttechnology.com/)
+
+**Project-lets (*tiny projects that try to solve a problem*)**
+
+* [Polygon Creator](/projects/polygon-creator/)
