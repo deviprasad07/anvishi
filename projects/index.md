@@ -29,4 +29,4 @@ permalink: /projects/
 **Project-lets (*tiny projects that try to solve a problem*)**
 
 * [Polygon Creator](/projects/polygon-creator/)
-* [Kettle Code Generator]()
+* [Kettle Code Generator](/projects/kettle-code-generator/)
