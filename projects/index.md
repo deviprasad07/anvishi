@@ -30,3 +30,5 @@ permalink: /projects/
 
 * [Polygon Creator](/projects/polygon-creator/)
 * [Kettle Code Generator](/projects/kettle-code-generator/)
+* [Theft Detector](https://github.com/adeydas/Theft-Detector)
+* [IP Keeper](https://github.com/adeydas/ipkeeper)
