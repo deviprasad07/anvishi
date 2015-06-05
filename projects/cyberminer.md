@@ -12,3 +12,4 @@ A presentation describing the system is on [Prezi](https://prezi.com/ym5gpflk0ft
 * [Requirement Specifications](/projects/project-files/cyberminer/Requirement_Specification.docx).
 * [Test Plan](/projects/project-files/cyberminer/Test_Plan.doc).
 * [User manual](/projects/project-files/cyberminer/UserManual.docx).
+* [Source Code](https://github.com/adeydas/Cyberminer).
