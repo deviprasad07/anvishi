@@ -15,4 +15,4 @@ Below is a video demonstration of the working system.
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/JuL5LIw7KDw" frameborder="0" allowfullscreen></iframe>
 
-*Source code [#1](https://github.com/adeydas/cometparkwebsiteapi), [#2](https://github.com/adeydas/cometparksms)
+*Source code [#1](https://github.com/adeydas/cometparkwebsiteapi), [#2](https://github.com/adeydas/cometparksms)*
