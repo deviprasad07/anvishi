@@ -24,7 +24,7 @@ In order to fulfil this Mission, **Anvishi Tech** aims to:
 
 7. Be adaptable and aspire to excellence and vision in all areas.
 
-
+<br><br>
 
 ## Core Values
 
@@ -44,7 +44,7 @@ All **Anvishi Tech** employees, contractors and consultants are required to adhe
 
 7. Self-responsibility
 
-
+<br><br>
 
 ## About this site
 
