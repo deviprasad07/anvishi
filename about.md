@@ -11,19 +11,19 @@ permalink: /about/
  
 In order to fulfil this Mission, **Anvishi Tech** aims to:
 
-	1. Focus on its cores businesses of information technology, Biotechnology and Technical Textiles, while continuing to look for opportunities to expand each of the businesses as well as venture into new technology domains.
++ Focus on its cores businesses of information technology, Biotechnology and Technical Textiles, while continuing to look for opportunities to expand each of the businesses as well as venture into new technology domains.
 
-	2. Create sustainable growth while maintaining profits and generous returns to shareholders.
++ Create sustainable growth while maintaining profits and generous returns to shareholders.
 
-	3. Practice high standards of safety and teamwork in an environment in which each individual accepts responsibility for performance.
++ Practice high standards of safety and teamwork in an environment in which each individual accepts responsibility for performance.
 
-	4. Comply with applicable environmental laws and regulations, and be a valued member of the communities in which we operate.
++ Comply with applicable environmental laws and regulations, and be a valued member of the communities in which we operate.
 
-	5. Value and support cultural heritage.
++ Value and support cultural heritage.
 
-	6. Recognize and encourage innovation.
++ Recognize and encourage innovation.
 
-	7. Be adaptable and aspire to excellence and vision in all areas.
++ Be adaptable and aspire to excellence and vision in all areas.
 
 ___
 <br>
@@ -32,19 +32,19 @@ ___
 
 All **Anvishi Tech** employees, contractors and consultants are required to adhere to our seven core values:
 
-	1. Safety
++ Safety
 
-	2. Teamwork and Mutual Respect
++ Teamwork and Mutual Respect
 
-	3. Acknowledgement
++ Acknowledgement
 
-	4. Integrity
++ Integrity
 
-	5. Communication
++ Communication
 
-	6. Accountability
++ Accountability
 
-	7. Self-responsibility
++ Self-responsibility
 
 ___
 <br><br>
