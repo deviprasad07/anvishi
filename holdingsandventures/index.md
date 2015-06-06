@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Holdings and Ventures
+permalink: /holdingsandventures/
 ---
 **Academic projects**
 
