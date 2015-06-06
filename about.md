@@ -4,6 +4,8 @@ title: About Us
 permalink: /about/
 ---
 
+___
+<br>
 ## Corporate Mission
 
 **Anvishi Tech** is a growing multinational conglomerate committed to making a significant and meaningful contribution to all stakeholders through a balance of profits and returns to shareholders, the safety and empowerment of its workforce and a commitment to environmental and social responsibility.
@@ -23,6 +25,7 @@ In order to fulfil this Mission, **Anvishi Tech** aims to:
 6. Recognize and encourage innovation.
 
 7. Be adaptable and aspire to excellence and vision in all areas.
+
 ___
 <br>
 
