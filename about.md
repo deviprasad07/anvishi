@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 ## Corporate Mission
+___
 
 **Anvishi Tech** is a growing multinational conglomerate committed to making a significant and meaningful contribution to all stakeholders through a balance of profits and returns to shareholders, the safety and empowerment of its workforce and a commitment to environmental and social responsibility.
  
@@ -24,9 +25,10 @@ In order to fulfil this Mission, **Anvishi Tech** aims to:
 
 7. Be adaptable and aspire to excellence and vision in all areas.
 
-<br><br>
+<br>
 
 ## Core Values
+___
 
 All **Anvishi Tech** employees, contractors and consultants are required to adhere to our seven core values:
 
@@ -44,8 +46,9 @@ All **Anvishi Tech** employees, contractors and consultants are required to adhe
 
 7. Self-responsibility
 
-<br><br>
+<br>
 
 ## About this site
+___
 
 This site is made entirely with [Jekyll](http://jekyllrb.com), [Markdown](http://en.wikipedia.org/wiki/Markdown) and hosted on [Github](https://github.com). Copyright reserved for content in *_posts, projects, images, files and any file within the subdomain cdn.anvishi.com*.
