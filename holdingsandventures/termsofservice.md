@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Automated parking spot finder
-permalink: /projects/automated-parking-spot-finder/
+title: Terms of Service
+permalink: /holdingsandventures/termsofservice/
 exclude_from_nav: true
 ---
 The automated parking spot finder was an Arduino based system that notified on a web interface a grid of available parking spots categorized on permit levels. My responsibilities in this project included:

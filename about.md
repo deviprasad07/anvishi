@@ -50,4 +50,4 @@ ___
 <br><br>
 
 
-*This site is made entirely with [Jekyll](http://jekyllrb.com), [Markdown](http://en.wikipedia.org/wiki/Markdown) and hosted on [Github](https://github.com).*
+*The use of this site is governed by our [Terms of Service](/holdingsandventures/termsofservice/).*
