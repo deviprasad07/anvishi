@@ -48,7 +48,7 @@ THIS SITE IS PROVIDED BY ANVISHI TECH ON AN "AS IS" AND "AS AVAILABLE" BASIS. AN
 ___
 <br><br>
 
-**Privacy Statement**
+## Privacy Statement
 
 This Privacy Statement relates solely to the online information collection and use practices of our Web site located at [anvishi.com](http://anvishi.com) (this "Web Site"), and not to any subdomains of this Web Site. We recognize that many visitors and users of this Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
