@@ -50,4 +50,4 @@ ___
 <br><br>
 
 
-*The use of this site is governed by our [Terms of Service](/holdingsandventures/termsofservice/).*
+*The use of this site is governed by our [Terms of Service](/misc/termsofservice/).*
