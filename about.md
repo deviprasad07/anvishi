@@ -11,7 +11,7 @@ permalink: /about/
  
 In order to fulfil this Mission, **Anvishi Tech** aims to:
 
-+ Focus on its cores businesses of information technology, Biotechnology and Technical Textiles, while continuing to look for opportunities to expand each of the businesses as well as venture into new technology domains.
++ Focus on its cores businesses of Information technology, Biotechnology and Technical Textiles, while continuing to look for opportunities to expand each of the businesses as well as venture into new technology domains.
 
 + Create sustainable growth while maintaining profits and generous returns to shareholders.
 
