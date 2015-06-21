@@ -6,21 +6,21 @@ layout: default
 
   <div id="container">
     <div id="navbar">
-        <p class="left-img"><img src="http://cdn.abhis.ws/cdn/site-images/abhishek.jpg" alt="Abhishek" /></p>
-        <p><span class="occupation">Software Engineer</span> @ <span class="company">Tango Analytics</span></p>
-        <p>Working on implementation of spatial algorithms for Pentaho Kettle and a distributed platform for disparate services.</p>
-        <p>Interested in distributed systems and algorithm design.</p>
+       <p class="left-img"><img src="https://cloud.githubusercontent.com/assets/9990518/8268300/cf05855e-174e-11e5-9591-30fab3ce101f.jpg" alt="Anvishi" /></p>
+        {% comment %} <p><span class="occupation">Info-tech</span> || <span class="company">Bio-tech</span> || <span class="occupation">Textile-tech</span></p> {% endcomment %}
+        <p align="justify">Anvishi Tech works on bringing ground-breaking innovative technologies to help organizations in the information technology, bio-technology and textile-technology industrial domains to operate in more sustainable and profitable ways.</p>
+        <p align="justify">Anvishi Tech is registered as a limited liability company in the State of Delaware, USA.</p>
         <p>&nbsp;</p>
         <ul>
-          <li><a href="http://github.com/adeydas">Fork on <strong>Github</strong></a></li>
-          <li><a href="http://cdn.abhis.ws/cdn/site-files/DeyDas_Resume.pdf">Download my <strong>Resume</strong></a></li>
-          <li><a href="https://www.linkedin.com/in/adeydas">Contact on <strong>LinkedIn</strong></a></li>
+          <li><a href="http://facebook.com/anvishi">Visit on <strong>Facebook</strong></a></li>
+          <li><a href="http://twitter.com/anvishi">Follow on <strong>Twitter</strong></a></li>
+          <li><a href="mailto:contact@anvishi.com">Contact us <strong>e-Mail</strong></a></li>
         </ul>
     </div> 
 
     <div id="content">
     
-    <h3>Blog posts:</h3>
+    <h2>News from across Anvishi Holdings and Ventures:</h2>
     <ul class="post-list">
     {% for post in paginator.posts %}
       <li><span class="datetitle"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span><br /><span class="excerpt-text">{{ post.excerpt | remove: '<p>' | remove: '</p>' | strip_html | truncatewords:50 }} <a href="{{ post.url | prepend: site.baseurl }}">Read more....</a></span></li>
