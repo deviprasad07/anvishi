@@ -5,7 +5,7 @@ description: Corporate Website of Anvishi Technology Holdings and Ventures LLC.
 avatar: https://cloud.githubusercontent.com/assets/9990518/8269997/33eed6ac-1793-11e5-92a5-996b8ddeb051.png
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://anvishi.com" # the base hostname & protocol for your site
-twitter_username: anvishi
+twitter_username: AnvishiTech
 github_username:  anvishi
 permalink: /:title.html
 paginate: 20
