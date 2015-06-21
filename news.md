@@ -4,6 +4,22 @@ title: Anvishi News
 permalink: /news/
 ---
 
+<div class="home">
+
+  <div id="container">
+    <div id="navbar">
+       <p class="left-img"><img src="https://cloud.githubusercontent.com/assets/9990518/8268300/cf05855e-174e-11e5-9591-30fab3ce101f.jpg" alt="Anvishi" /></p>
+        {% comment %} <p><span class="occupation">Info-tech</span> || <span class="company">Bio-tech</span> || <span class="occupation">Textile-tech</span></p> {% endcomment %}
+        <p align="justify">Anvishi Tech works on bringing ground-breaking innovative technologies to help organizations in the information technology, bio-technology and textile-technology industrial domains to operate in more sustainable and profitable ways.</p>
+        <p align="justify">Anvishi Tech is registered as a limited liability company in the State of Delaware, USA.</p>
+        <p>&nbsp;</p>
+        <ul>
+          <li><a href="http://facebook.com/anvishi">Visit on <strong>Facebook</strong></a></li>
+          <li><a href="http://twitter.com/anvishi">Follow on <strong>Twitter</strong></a></li>
+          <li><a href="mailto:contact@anvishi.com">Contact us <strong>e-Mail</strong></a></li>
+        </ul>
+    </div> 
+
     <div id="content">
     
     <h2>News from across Anvishi Holdings and Ventures:</h2>
