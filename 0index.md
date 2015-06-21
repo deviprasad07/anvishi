@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Anvishi Tech
+permalink: /0index/
 ---
 
 **Anvishi Tech** is a multicultural organization committed to making a significant and meaningful contribution to all stakeholders through a balance of profits and returns to shareholders, the safety and empowerment of its workforce and a commitment to environmental and social responsibility.
