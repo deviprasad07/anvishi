@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Bio-tech
-permalink: /biotech/
+permalink: /2biotech/
 ---
 ###Coming soon....

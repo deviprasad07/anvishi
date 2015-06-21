@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Info-tech
-permalink: /infotech/
+permalink: /1infotech/
 ---
 ###Coming soon....
