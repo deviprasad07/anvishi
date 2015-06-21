@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mission and Values
+title: Anvishi Tech Mission and Values
 exclude_from_nav: true
 ---
 
