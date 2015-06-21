@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Anvishi News
 permalink: /news/
 ---
