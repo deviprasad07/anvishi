@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Textile-tech
-permalink: /textiletech/
+permalink: /3textiletech/
 ---
 ###Coming soon....

@@ -1,14 +1,9 @@
 ---
 layout: page
-title: About Us
-permalink: /about/
 ---
 
+**Anvishi Tech** is a multicultural organization committed to making a significant and meaningful contribution to all stakeholders through a balance of profits and returns to shareholders, the safety and empowerment of its workforce and a commitment to environmental and social responsibility.
 
-## Corporate Mission
-
-**Anvishi Tech** is on the path to be a multinational conglomerate committed to making a significant and meaningful contribution to all stakeholders through a balance of profits and returns to shareholders, the safety and empowerment of its workforce and a commitment to environmental and social responsibility.
- 
 In order to fulfil this Mission, **Anvishi Tech** aims to:
 
 + Focus on its cores businesses of Information technology, Biotechnology and Technical Textiles, while continuing to look for opportunities to expand each of the businesses as well as venture into new technology domains.
